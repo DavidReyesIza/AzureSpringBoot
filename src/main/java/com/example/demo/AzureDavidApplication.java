@@ -12,7 +12,7 @@ public class AzureDavidApplication {
 	
 	@GetMapping("/message")
 	public String messasge() {
-		return "Desplegado en Azure!";
+		return "Desplegado en Azure test 2!";
 	}
 
 	public static void main(String[] args) {
