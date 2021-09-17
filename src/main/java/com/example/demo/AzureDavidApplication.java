@@ -20,7 +20,7 @@ public class AzureDavidApplication {
 	
 	@GetMapping("/message")
 	public String messasge() {
-		return "Desplegado en Azure test 2!";
+		return "Desplegado en Azure test 2ee!";
 	}
 	
 	@PostMapping("/employee")
